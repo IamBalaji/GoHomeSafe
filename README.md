@@ -1,2 +1,2 @@
 # GoHomeSafe
-Djando based webapp for Fatigue Detection
+Django based webapp for Fatigue Detection
