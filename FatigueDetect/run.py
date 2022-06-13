@@ -251,8 +251,8 @@ class FatigueDetection:
 			frame = self.detectYawn(frame)
 
 			self.output_video.write(frame)
-			cv2.imshow("Frame", frame)
-			cv2.waitKey(1)
+			# cv2.imshow("Frame", frame)
+			# cv2.waitKey(1)
 			# key = cv2.waitKey(1) & 0xFF
 
 			# if key == ord("q"):
